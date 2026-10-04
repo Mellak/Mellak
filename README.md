@@ -3,7 +3,7 @@
 <p align="center"><b>PET scientist · Inverse problems · Efficient deep learning</b></p>
 
 <p align="center">
-  <img src="assets/hero.svg" width="900" alt="Animation: a scanner measures a patient, the data fills a sinogram, a physics-aware neural network reconstructs a sharp image, and a lesion is located and quantified." />
+  <img src="assets/hero.svg" width="900" alt="From patient to insight: a PET/CT scan produces raw data, the data is corrected, reconstructed into an image, the image is sharpened, and a lesion is found and measured." />
 </p>
 
 <h3 align="center">Image reconstruction from raw data</h3>
@@ -48,7 +48,7 @@ Full list of publications: [mellak.github.io](https://mellak.github.io).
 <p>
   <a href="https://mellak.github.io"><img src="https://img.shields.io/badge/Website-mellak.github.io-4F8FBF?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="SCHOLAR_URL"><img src="https://img.shields.io/badge/Google_Scholar-profile-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
-  <a href="https://orcid.org/ORCID"><img src="https://img.shields.io/badge/ORCID-iD-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" /></a>
+  <a href="https://orcid.org/0009-0000-3772-8300"><img src="https://img.shields.io/badge/ORCID-iD-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" /></a>
   <a href="https://www.linkedin.com/in/youness-mellak"><img src="https://img.shields.io/badge/LinkedIn-youness--mellak-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:youness.mellak@univ-brest.fr"><img src="https://img.shields.io/badge/Email-univ--brest.fr-555555?style=flat-square&logo=maildotru&logoColor=white" alt="Email" /></a>
 </p>
