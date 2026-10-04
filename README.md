@@ -1,24 +1,19 @@
-<h1 align="center">Hi, I'm Youness Mellak</h1>
+<h1 align="center">Youness Mellak</h1>
+
+<p align="center"><b>PET scientist · Inverse problems · Efficient deep learning</b></p>
 
 <p align="center">
-  <a href="https://mellak.github.io">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1200&color=4F8FBF&center=true&vCenter=true&width=640&height=40&lines=3D+generative+models+for+medical+image+reconstruction;PET+physics+%26+positron+range+correction;Physics-informed+deep+learning" alt="3D generative models for medical image reconstruction / PET physics & positron range correction / Physics-informed deep learning" />
-  </a>
+  <img src="assets/hero.svg" width="900" alt="I build simulators of patients and scanners. I model how PET and CT measure the body. I turn every detection into raw data. I correct the measured data. I reconstruct images from raw data. I remove blur and noise with deep learning. I deliver results clinicians can trust." />
 </p>
+
+<h3 align="center">Image reconstruction from raw data</h3>
+<h3 align="center">Deep learning that corrects physical artifacts</h3>
+<h3 align="center">Efficient architectures for clinical-size 3D</h3>
 
 ## About
 
 Postdoctoral researcher at **LaTIM** (INSERM UMR 1101, Université de Bretagne Occidentale, Brest) 🔬.
-I completed my PhD on direct PET reconstruction and positron range correction ([thesis](https://theses.hal.science/tel-05465688)).
-My current work focuses on making 3D generative models practical for clinical-size volumes.
-
-## Research interests
-
-- Efficient diffusion and flow models for clinical-size 3D reconstruction
-- Medical image reconstruction and inverse problems (PET, CT, MRI)
-- Physics-informed architectures: operators consistent with the imaging physics
-- PET physics: positron range, Monte Carlo simulation, three-gamma PET
-- GPU-efficient deep learning: Triton kernels, memory-bounded 3D decoding
+PhD on deep learning for PET reconstruction and data correction ([thesis](https://theses.hal.science/tel-05465688)).
 
 ## Selected work
 
@@ -53,7 +48,7 @@ Full list of publications: [mellak.github.io](https://mellak.github.io).
 <p>
   <a href="https://mellak.github.io"><img src="https://img.shields.io/badge/Website-mellak.github.io-4F8FBF?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="SCHOLAR_URL"><img src="https://img.shields.io/badge/Google_Scholar-profile-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
-  <a href="https://orcid.org/ORCID"><img src="https://img.shields.io/badge/ORCID-iD-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" /></a>
+  <a href="https://orcid.org/0009-0000-3772-8300"><img src="https://img.shields.io/badge/ORCID-iD-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" /></a>
   <a href="https://www.linkedin.com/in/youness-mellak"><img src="https://img.shields.io/badge/LinkedIn-youness--mellak-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:youness.mellak@univ-brest.fr"><img src="https://img.shields.io/badge/Email-univ--brest.fr-555555?style=flat-square&logo=maildotru&logoColor=white" alt="Email" /></a>
 </p>
