@@ -3,7 +3,7 @@
 <p align="center"><b>PET scientist · Inverse problems · Efficient deep learning</b></p>
 
 <p align="center">
-  <img src="assets/hero.svg" width="900" alt="From patient to insight: a PET/CT scan produces raw data, the data is corrected, reconstructed into an image, the image is sharpened, and a lesion is found and measured." />
+  <img src="assets/hero.svg" width="900" alt="Seven scenes: a patient enters a PET/CT scanner, the scan detects photons, data fills a sinogram, a neural network corrects the data, reconstruction produces an image, a CNN sharpens it, and the lesion is found and measured." />
 </p>
 
 <h3 align="center">Image reconstruction from raw data</h3>
