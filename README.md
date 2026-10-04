@@ -3,7 +3,7 @@
 <p align="center"><b>PET scientist · Inverse problems · Efficient deep learning</b></p>
 
 <p align="center">
-  <img src="assets/hero.svg" width="900" alt="Seven scenes: a patient enters a PET/CT scanner, the scan detects photons, data fills a sinogram, a neural network corrects the data, reconstruction produces an image, a CNN sharpens it, and the lesion is found and measured." />
+  <img src="assets/hero.svg" width="900" alt="I build simulators of patients and scanners. I model how PET and CT measure the body. I turn every detection into raw data. I correct the measured data. I reconstruct images from raw data. I remove blur and noise with deep learning. I deliver results clinicians can trust." />
 </p>
 
 <h3 align="center">Image reconstruction from raw data</h3>
